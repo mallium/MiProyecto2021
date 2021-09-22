@@ -5,7 +5,7 @@ const Index = () => {
   return (
     <div className="container">
       <Head>
-        <title>INFO104 Nextjs App</title>
+        <title>Aprendiendo React</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
