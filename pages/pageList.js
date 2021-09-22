@@ -34,7 +34,7 @@ export default function PageList({ data }) {
       <Head>
         <title>Todo List</title>
       </Head>
-      <h1>Cosas por hacer</h1>
+      <h1>Lista de cosas por hacer que tal vez he hecho o no no lo se</h1>
       <div className="todo-list">
         {data.map((item, index) => (
           <TodoItem key={index} item={item} />
